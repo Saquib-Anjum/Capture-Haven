@@ -21,6 +21,9 @@ Welcome to **Capture Haven**! 🎥🌈 Unleash your creativity and capture stunn
 
 ---
 
+## 🚀 Live Demo
+Check out the live demo of the project: [Live Demo Link](https://fancy-flan-29513c.netlify.app) <!-- Replace with your actual deployment link -->
+
 ## ⚡ Technologies That Power Your Creativity
 
 - **HTML5**: Structure your media with elegance!
