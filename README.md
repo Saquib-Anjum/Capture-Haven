@@ -17,7 +17,7 @@ Welcome to **Capture Haven**! 🎥🌈 Unleash your creativity and capture stunn
 ## 📸 Screenshots
 
 ![Capture Haven Screenshot](https://via.placeholder.com/800x400.png?text=Capture+Haven+Screenshot)  
-*Insert a dazzling screenshot of your app here!*
+
 
 ---
 
