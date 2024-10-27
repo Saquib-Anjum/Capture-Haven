@@ -9,8 +9,6 @@ recordFlag = false;
 let recorder;
 let chunks//stores media data in chunks  
 
-
-
 let transparentColor = "transparent";
 let constrains ={
     video:true,

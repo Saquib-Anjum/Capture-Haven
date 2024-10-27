@@ -183,3 +183,171 @@ z-index: 2;
     cursor: pointer;
 }
 
+@media (max-width: 768px) {
+    .action-cont
+{
+    height:6rem;
+    width:10rem;
+  
+    position: absolute;
+    right:calc(( 100vw - 5rem )/2);
+    top:calc(100% - 9.5rem);
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row; /* Change to row layout */
+}
+
+.action-cont >* {
+     height:50%;
+     width:3rem;
+     
+    border-radius: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+
+}
+
+.capture-btn{
+    background-color:white ;
+    height: 2rem;
+    width:2rem;
+    border-radius: 50%;
+}
+.record-btn{
+    background-color:red ;
+    height: 2rem;
+    width:2rem;
+    border-radius: 50%;
+}
+
+.scale-record {
+    animation-name: scale-record;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out; /* Optional for smoothness */
+}
+@keyframes scale-record {
+    0%{
+        transform: scale(0.8);
+    }
+    100%{
+        transform: scale(1.1);
+    }
+}
+
+.scale-capture {
+    animation-name: scale-capture;
+    animation-iteration-count: 1;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out; /* Optional for smoothness */
+}
+@keyframes scale-capture {
+    0%{
+        transform: scale(0.8);
+    }
+    100%{
+        transform: scale(1.1);
+    }
+}
+
+.timer-cont{
+    position:absolute;
+    color:aqua;
+    bottom:10rem;
+    left:5rem;
+    font-size: 1rem;
+    z-index: 2;
+}
+
+.filter-cont{
+    position:absolute;
+    top:calc(( 100vh - 15rem)/2);
+    left:1rem;
+    width:3.5rem;
+    height:8rem;
+    background-color: rgb(222, 238, 225);
+    z-index: 2;
+}
+.filter{
+    height:4rem;
+    background-image: url(https://picsum.photos/seed/picsum/200/300);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    transition: transform 0.3s ease; /* Smooth scaling effect */
+   
+}
+.filter:hover {
+    transform: scale(1.2); /* Enlarge the filter slightly on hover */
+    
+}
+
+
+.orange{
+    background-blend-mode: color-burn;
+    background-color: rgba(255, 166, 0, 0.487);
+}
+.brown{
+    background-blend-mode: color-burn;
+    background-color:rgba(165, 42, 42, 0.386)
+}
+.pink{
+    background-blend-mode: color-burn;
+    background-color:rgba(255, 192, 203, 0.399);
+}
+.transparant{
+    background-blend-mode: color-burn;
+    background-color: transparent;
+ 
+}
+
+.border{
+    border: 5px solid white;
+}
+
+.filter-layer{
+    position: absolute;
+    top:0;
+    left:0;
+    height:100vh;
+    width:100vw;
+ 
+    z-index:1;
+}
+
+.gallerydiv{
+    position: absolute;
+    background-color:#1e272e;
+    bottom:5rem;
+    right:5rem;
+    height:3rem;
+    width:3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    
+    z-index: 2;
+    }
+    
+    .material-symbols-outlined{
+        font-size: 2rem;
+        color:white;
+        border-radius: 50%;
+        
+    }
+    
+    .gallerydiv :hover { 
+        cursor: pointer;
+    }
+}
+
