@@ -22,7 +22,7 @@ Welcome to **Capture Haven**! 🎥🌈 Unleash your creativity and capture stunn
 ---
 
 ## 🚀 Live Demo
-Check out the live demo of the project: [Live Demo Link](https://meek-cajeta-c81cd3.netlify.app) <!-- Replace with your actual deployment link -->
+Check out the live demo of the project: [Live Demo Link](https://wonderful-tulumba-b2d4a8.netlify.app) <!-- Replace with your actual deployment link -->
 
 ## ⚡ Technologies That Power Your Creativity
 
