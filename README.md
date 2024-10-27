@@ -16,7 +16,7 @@ Welcome to **Capture Haven**! 🎥🌈 Unleash your creativity and capture stunn
 
 ## 📸 
 
-![Capture Haven Screenshot](https://github.com/Saquib-Anjum/Capture-Haven/blob/main/Camera.png)  
+![Capture Haven Screenshot](https://github.com/Saquib-Anjum/Capture-Haven/blob/main/Result/Camera.png)  
 
 
 ---
