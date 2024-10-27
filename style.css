@@ -261,8 +261,8 @@ z-index: 2;
 .timer-cont{
     position:absolute;
     color:aqua;
-    top:15rem;
-    left:1.5rem;
+    top:5rem;
+    left:2rem;
     font-size: 1rem;
     z-index: 2;
 }
