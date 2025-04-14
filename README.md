@@ -16,13 +16,13 @@ Welcome to **Capture Haven**! 🎥🌈 Unleash your creativity and capture stunn
 
 ## 📸 
 
-![Capture Haven Screenshot](https://github.com/Saquib-Anjum/Capture-Haven/blob/main/Camera.png)  
+![Capture Haven Screenshot](https://github.com/Saquib-Anjum/Capture-Haven/blob/main/Result/Camera.png)  
 
 
 ---
 
 ## 🚀 Live Demo
-Check out the live demo of the project: [Live Demo Link](https://meek-cajeta-c81cd3.netlify.app) <!-- Replace with your actual deployment link -->
+Check out the live demo of the project: [Live Demo Link](https://wonderful-tulumba-b2d4a8.netlify.app) <!-- Replace with your actual deployment link -->
 
 ## ⚡ Technologies That Power Your Creativity
 
